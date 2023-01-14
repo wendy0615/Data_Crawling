@@ -1,3 +1,1 @@
-Two files to crawl data from Glassdoor.
-
-See the differences from one file to the other. 
+seperate the functions and running code
